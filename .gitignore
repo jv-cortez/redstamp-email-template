@@ -1,0 +1,3 @@
+#ignored unneccesary sass info files
+.sass-cache
+styles/main.css.map
